@@ -101,4 +101,4 @@ License
 This project is licensed under the MIT License.
 
 Author~ Mike Kerich
-Medium channel: 
+Medium channel: https://medium.com/@mkibekerich14
